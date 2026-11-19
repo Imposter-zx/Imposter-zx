@@ -61,3 +61,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/api/ascii/svg/tokyo-rain?dark=1" />
+  <img alt="tokyo rain" src="/api/ascii/svg/tokyo-rain?dark=0" />
+</picture>
+</div>
