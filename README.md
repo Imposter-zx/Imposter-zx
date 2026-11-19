@@ -15,7 +15,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Imposter-zx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Imposter-zx&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Imposter-zx's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imposter-zx&show_icons=true&include_all_commits=true&theme=radical&border_radius=10" alt="Imposter-zx's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Imposter-zx&theme=radical&hide_border=true&cache_seconds=86400" alt="Imposter-zx's GitHub Streak" width="49%" />
 </p>
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://github.com/Imposter-zx">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Imposter-zx&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Imposter-zx&layout=compact&langs_count=8&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
