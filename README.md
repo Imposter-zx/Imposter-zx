@@ -9,7 +9,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a passionate programmer exploring systems, networking, and modern web technologies.
+
+Hey! I'm **ZORD-zx**, a Software Developer and IT .
+
+I'm passionate about exploring how technology works, building useful applications, and experimenting with innovative ideas.
+
+-  Interested in **Software Engineering & Full-Stack Development**
+-  Exploring **Cybersecurity, Ethical Hacking & Digital Forensics**
+-  Interested in **Artificial Intelligence, Machine Learning & AI Agents**
+-  Learning and experimenting with **Networking, Linux & System Administration**
+-  Building personal projects and contributing to the open-source ecosystem
+-  Always exploring new technologies, solving problems, and turning ideas into reality
+
+**My mindset:** Learn by building, think critically, experiment constantly, and never stop exploring.
 
 
 ## 📊 GitHub Stats & Trophies
